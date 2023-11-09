@@ -1,4 +1,6 @@
 ---
+message:
+    welcome: "Hello welcome to our page"
 brand:
     products:
         limit: {{theme_settings.brandpage_products_per_page}}
@@ -45,5 +47,6 @@ brand:
     </div>
 </div>
 
+<h1>{{lang 'message.welcome'}}</h1>
 {{/partial}}
-{{> layout/base}}
+{{> layout/brand}}

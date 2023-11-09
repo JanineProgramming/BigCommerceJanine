@@ -27,6 +27,9 @@
         "maintenance_title": "Ausfall wegen Wartungsarbeiten",
         "maintenance_message": "Dieser Shop ist derzeit aufgrund von Wartungsarbeiten nicht verfügbar. Er sollte in Kürze wieder aufrufbar sein. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten."
     },
+    "message": {
+        "welcome": "Hallo Willkommen auf unserer Seite"
+    },
     "brands": {
         "no_products": "Unter dieser Marke sind keine Produkte aufgeführt."
     },
