@@ -1,0 +1,5 @@
+$inhaltBackground: hsl(160, 30%, 48%);
+.inhalt{
+    background-color: $inhaltBackground;
+    color: stencilColor("color-textSecondary");
+}
